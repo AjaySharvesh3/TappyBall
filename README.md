@@ -17,5 +17,5 @@ Creating own assets and playing with that assets. It's in beginners level of 2D 
 ## Download it from - Play Store
 
 <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.GeeksWolfpack.TheTappyMinions"><img src="imgs/play.png"></a>
+    <a href="https://play.google.com/store/apps/details?id=com.GeeksWolfpack.TheTappyMinions"><img src="Google_play_store.png"></a>
 </p>
