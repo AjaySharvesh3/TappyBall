@@ -6,7 +6,7 @@ Tap the minion to travel between the pipes without collisions. Do tap simultaneo
 
 ## Why this Project?
 
-Creating own assets and playing with that assets. It's in beginners level of 2D game development. Used Inkscape for own creations of assets. 
+Creating own assets and playing with that assets. It's in beginners level of 2D game development. Used Inkscape for own creations of assets.
 
 ## Work Done (Screenshots of the Game)
 
